@@ -379,7 +379,7 @@ A partir del objeto `mdl`, el cuaderno obtiene:
 - intervalo de confianza del 95 % (`CI95`);
 - valor \(p\);
 - grados de libertad;
-- \(R^2\) ajustada;
+- \($$R^2\$$) ajustada;
 - suma residual de cuadrados (`RSS`);
 - criterio de información de Akaike corregido (`AICc`).
 
