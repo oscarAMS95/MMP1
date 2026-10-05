@@ -389,7 +389,7 @@ $$
 \mathrm{MoE}=t_{1-\alpha_s/2,\nu}\,SE,
 $$
 
-donde \(\alpha_s=0.05\) es el nivel de significancia y \(\nu\) representa los grados de libertad del ajuste.
+donde \($$\alpha_s$$=0.05\) es el nivel de significancia y \($$\nu\$$) representa los grados de libertad del ajuste.
 
 ### Parámetros guardados
 
